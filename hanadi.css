@@ -32,7 +32,7 @@ nav ul li{
 }
 
 nav ul li a{
-  color: #666;
+  color: rgb(158, 13, 13);
 }
 
 .container{
@@ -89,7 +89,7 @@ h2, strong, h3{
 
 .actions ul li a{
   padding: 10px; text-decoration: none; color: #fff;
-  background-color: #32c24d; border-radius: 4px;
+  background-color: #a532c2; border-radius: 4px;
   font-family: 'Dubai-Bold', sans-serif;
 }
 
@@ -182,7 +182,7 @@ h2, strong, h3{
 }
 
 .error{
-  background-color: #ffeb3b;
+  background-color: #3be2ff;
 }
 
 .tracks{
